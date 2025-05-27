@@ -1,0 +1,246 @@
+[
+[
+{
+"chaupai": "Jai Hanuman Gyaan Gun Sagar। Jai Kapis Teehun Lok Ujagar॥",
+"meaning": "Victory to Hanuman who is the ocean of wisdom and virtues, Victory to the king of monkeys who is illuminating three worlds.",
+"words" : "Sagar, Ujagar",
+"translation": "ocean, illuminating"
+},
+{
+"chaupai": "Ram Doot Atulit Bal Dhama। Anjani-Putra Pavansut Nama॥",
+"meaning": "You are the messenger of Rama (to Sita), You are the abode of incomparable power. You are also called by the names of 'Anjani Putra' (Son of Anjana) and 'Pavana Suta' (son of wind god).",
+"words" : "Dhama, Nama",
+"translation": "abode, names"
+},
+{
+"chaupai": "Mahabir Bikram Bajrangi। Kumati Nivaar Sumati Ke Sangi॥",
+"meaning": "O mighty valorous one, of terrific deeds whose body organs are as strong as diamond (or the weapon of god Indra). Cure my bad mind oh companion of those with pure (good) mind.",
+"words" : "Bajrangi, Sangi",
+"translation": "strong as diamond, companion"
+},
+{
+"chaupai": "Kanchan Baran Biraaj Subesa। Kaanan Kundal Kunchit Kesa॥",
+"meaning": "You are golden colored, you are shining in your beautiful attire. You have beautiful earrings in your ear and curly hairs.",
+"words" : "Subesa, Kesa",
+"translation": "beautiful attire, hairs"
+},
+{
+"chaupai": "Haath Bajra Aau Dhwaja Biraaje। Kaandhe Moonj Janeu Saaje॥",
+"meaning": "Vajrayudha (mace) and flag are shining in your hand. Sacred thread made of Munja grass adorns your shoulder.",
+"words" : "Biraaje, Saaje",
+"translation": "shining, adorns"
+},
+{
+"chaupai": "Sankar Suvan Kesarinandan। Tej Prataap Maha Jag bandan॥",
+"meaning": "O partial incarnation of Lord Shiva, giver of joy (son) to king Kesari. Your great majesty is revered by the whole world.",
+"words" : "nandan, bandan",
+"translation": "son, revered"
+},
+{
+"chaupai": "Bidyabaan Guni Ati Chaatur। Ram Kaaj Karibe Ko Aatur॥",
+"meaning": "O one learned in all Vidyas, one full of virtues, very clever. You are always eager to do Rama's tasks.",
+"words" : "Chaatur, Aatur",
+"translation": "clever, eager"
+},
+{
+"chaupai": "Prabhu Charitra Sunibe Ko Rasiya। Ram Lakhan Sita Man Basiya॥",
+"meaning": "You delight in listening to the acts of Rama (Ramayana). Lord Rama, Lakshmana and Sita reside in your heart.",
+"words" : "Rasiya, Basiya",
+"translation": "delight, reside"
+},
+{
+"chaupai": "Sukshma Roop Dhari Siyahin Dikhawa। Bikat Roop Dhari Lanka Jarawa॥",
+"meaning": "Assuming the extremely minute form you appeared to Sita. Assuming the gigantic form you burnt down the Lanka.",
+"words" : "Dikhawa, Jarawa",
+"translation": "appeared, burnt"
+},
+{
+"chaupai": "Bheem Roop Dhari Asur Sanhaare। Ramchandra Ke Kaaj Sanwaare॥",
+"meaning": "Assuming a terrible form you slayed demons. You carried out all the tasks of Rama.",
+"words" : "Sanhaare, Sanwaare",
+"translation": "slayed, carried out"
+},
+{
+"chaupai": "Laaye Sajivan Lakhan Jiyaaye। Shri Raghubeer Harashi Ur laaye॥",
+"meaning": "You brought the Sanjivini to save Lakshmana's Life. Lord Rama cheerfully embraced you with his heart full of joy.",
+"words" : "Jiyaaye, laaye",
+"translation": "save, joy"
+},
+{
+"chaupai": "Raghupati Keenhi Bahut Badai। Tum Mum Priy Bharat Hi Sam Bhai॥",
+"meaning": "Lord Rama praised you very much saying 'You are dear to me like my brother Bharata'.",
+"words" : "Badai, Bhai",
+"translation": "praised, like"
+},
+{
+"chaupai": "Sahas Badan Tumhro Jas Gaavein। As Kahi Shripati Kanth Lagavein॥",
+"meaning": "Thousands of living beings are chanting hymns of your glories; saying thus, Shri Ram warmly hugged him.",
+"words" : "Gaavein, Lagavein",
+"translation": "chanting, hugged"
+},
+{
+"chaupai": "Sankadik Bramhadi Munisa। Narad Sarad Sahit Ahisa॥",
+"meaning": "When prophets like Sanka, even the Sage like Lord Brahma the great hermit Narad himself, Goddess Saraswati and Adishesha.",
+"words" : "Munisa, Ahisa",
+"translation": "prophets, Adishesha"
+},
+{
+"chaupai": "Jam Kuber Digpaal JahaanTe। Kabi Kobid Kahi Sake KahaanTe॥",
+"meaning": "Yama (god of death), Kubera (god of wealth), Digpalas (the guardian deities), poets and scholars have not been able to describe Your glories in full.",
+"words" : "JahaanTe, KahaanTe",
+"translation": "even, describe"
+},
+{
+"chaupai": "Tum Upkaar Sugreevhin Kinha। Ram Milaaye Raajpad Dinha॥",
+"meaning": "You did Sugriva a great favour by making him meet Rama and bestowing on him the kingdom of Kishkindha.",
+"words" : "Kinha, Dinha",
+"translation": "did, bestowing"
+},
+{
+"chaupai": "Tumhro Mantra Vibhishan Maana। Lankeswar Bhaye Sab Jag Jana॥",
+"meaning": "Vibhishana accepted your suggestion. He became the king of Lanka because of your advice, whole world knows it.",
+"words" : "Maana, Jana",
+"translation": "accepted, knows"
+},
+{
+"chaupai": "Jug Sahasra Jojan Par Bhaanu। Lilyo Taahi Madhur Phal Jaanu॥",
+"meaning": "You flew towards the sun who is thousands of years of Yojanas away, thinking of him as a sweet fruit.",
+"words" : "Bhaanu, Jaanu",
+"translation": "sun, thinking"
+},
+{
+"chaupai": "Prabhu Mudrika Meli Mukh Maahi। Jaldhi Laanghi Gaye Achraj Naahi॥",
+"meaning": "Putting the ring of Rama in your mouth, you jumped and flew over ocean to Lanka, there is no surprise in that.",
+"words" : "Maahi, Naahi",
+"translation": "your, no"
+},
+{
+"chaupai": "Durgam Kaaj Jagat Ke Jete। Sugam Anugraha Tumhre Tete॥",
+"meaning": "All the difficult tasks in the world, become easy if there is your grace.",
+"words" : "Jete, Tete",
+"translation": "all the, if there"
+},
+{
+"chaupai": "Ram Dooare Tum Rakhwaare। Hoat Na Aagya Binu Paisare॥",
+"meaning": "You are the doorkeeper and protector of the door to Rama's court. Without your permission nobody can enter Rama's abode.",
+"words" : "Rakhwaare, Paisare",
+"translation": "protector, permission"
+},
+{
+"chaupai": "Sab Sukh Lahai Tumhari Sarna। Tum Rakhshak Kaahu Ko Darna॥",
+"meaning": "Once in your refuge, a Sadhaka obtains all the pleasures. You are the protector, and there is nothing to be afraid of.",
+"words" : "Sarna, Darna",
+"translation": "obtains, afraid"
+},
+{
+"chaupai": "Aapan Tej Samharo Aapai। Teeno Lok Haank Te Kaanpen॥",
+"meaning": "You alone are befitted to carry your own splendid valour. All the three worlds (entire universe) tremor at your thunderous call.",
+"words" : "Aapai, Kaanpen",
+"translation": "yourself, tremor"
+},
+{
+"chaupai": "Bhoot Pisaach Nikat Nahi Aave। Mahabir Jab Naam Sunave॥",
+"meaning": "All the ghosts, demons and evil forces won't come close, with the sheer mention of your great name, O'Mahavira.",
+"words" : "Aave, Sunave",
+"translation": "come, mention"
+},
+
+{
+"chaupai": "Naasai Rog Harai Sab Peera। Japat Nirantar Hanumat Beera॥",
+"meaning": "All diseases, pain and suffering disappear on reciting regularly Shri Hanuman's holy name.",
+"words" : "Peera, Beera",
+"translation": "pain, name"
+},
+{
+"chaupai": "Sankat Te Hanuman Chhoodave। Man Krama Bachan Dhyaan Jo Laave॥",
+"meaning": "Hanuman will release those from troubles who meditate upon him in their mind, actions and words.",
+"words" : "Chhoodave, Laave",
+"translation": "release, does"
+},
+{
+"chaupai": "Sab Par Raam Tapasvi Raja। Tin Ke Kaaj Sakal Tum Saaja॥",
+"meaning": "All who hail, worship and have faith in Shri Rama as the supreme Lord and the king of penance. You make all their difficult tasks very easy.",
+"words" : "Raja, Saaja",
+"translation": "lord, easy"
+},
+{
+"chaupai": "Aur Manorath Jo Koi Laave। Soi Amit Jivan Phal Paave॥",
+"meaning": "Whosoever comes to you for fulfillment of any desire with faith and sincerity, Will he alone secure the imperishable fruit of human life.",
+"words" : "Laave, Paave",
+"translation": "comes, secure"
+},
+{
+"chaupai": "Chaaro Jug Partaap Tumhara। Hai Parsiddh Jagat Ujiyara॥",
+"meaning": "Your glory is for all the four Yugas, Your greatness is very famous throughout the world, and illumines the world.",
+"words" : "Tumhara, Ujiyara",
+"translation": "your, illumines"
+},
+{
+"chaupai": "Saadhu Sant Ke Tum Rakhwaare। Asur Nikandan Ram Dulaare॥",
+"meaning": "You are the guardian of saints and good people. You killed demons and you are dear to Rama.",
+"words" : "Rakhwaare, Dulaare",
+"translation": "guardian, dear"
+},
+{
+"chaupai": "Asht Siddhi Nau Nidhi Ke Daata। As bar Deen Janki Maata॥",
+"meaning": "Mother Sita granted you a boon to become the bestower of eight Siddhis (supernatural powers) and nine Nidhis (divine treasures).",
+"words" : "Daata, Maata",
+"translation": "bestower, mother"
+},
+{
+"chaupai": "Ram Rasayan Tumhre Paasa। Sada Raho Raghupati Ke Daasa॥",
+"meaning": "You have the sweet devotion to Rama. May you always be a devotee of Lord Rama.",
+"words" : "Paasa, Daasa",
+"translation": "devotion, devotee"
+},
+
+{
+"chaupai": "Tumhre Bhajan Ram Ko Paave। Janam Janam Ke Dukh Bisraave॥",
+"meaning": "Through hymns sung in devotion to you, one can find Shri Rama and become free from sufferings of several births.",
+"words" : "Paave, Bisraave",
+"translation": "find, free"
+},
+{
+"chaupai": "Antakaal Raghubar Pur Jaayee। Jahan Janam Hari-Bhakt Kahayee॥",
+"meaning": "If at the time of death one enters the divine abode of Shri Rama, thereafter in all future births he is born as the Lord's devotee.",
+"words" : "Jaayee, Kahayee",
+"translation": "enters, whereever"
+},
+{
+"chaupai": "Aur Devta Chitt Na Dharayi। Hanumat Sei Sarb Sukh Karayi॥",
+"meaning": "Not contemplating on other gods, gets his all happiness from Hanuman by serving Him.",
+"words" : "Dharayi, Karayi",
+"translation": "contemplating, gets"
+},
+{
+"chaupai": "Sankat Kate Mite Sab Peera। Jo Sumirai Hanumat Balbira॥",
+"meaning": "Pains will be removed, all afflictions will be gone of who remembers Hanuman the mighty brave one.",
+"words" : "Peera, Balbira",
+"translation": "pain, brave one"
+},
+{
+"chaupai": "Jai Jai Jai Hanuman Gosaai। Kripa Karahun Gurudev Ki Naai॥",
+"meaning": "Victory to you O master of the senses. Show mercy on us like a Guru does.",
+"words" : "Gosaai, Naai",
+"translation": "master of the senses, like"
+},
+{
+"chaupai": "Jo Sat Baar Paath Kar Koi। Chhootahin Bandi Maha sukh Hoyi॥",
+"meaning": "One who recites Chalisa one hundred times, becomes free from the bondage of life and death and enjoys the highest bliss at last.",
+"words" : "Koi, Hoyi",
+"translation": "who, enjoys"
+},
+{
+"chaupai": "Jo Yeh Padhe Hanuman Chalisa। Hoye Siddhi Saakhi Gaurisa॥",
+"meaning": "All those who recite Hanuman Chalisa (the forty Chaupais) regularly are sure to be benedicted. Such is the evidence of no less a witness as Lord Shiva.",
+"words" : "Chalisa, Gaurisa",
+"translation": "forty lines, Lord Shiva"
+},
+{
+"chaupai": "Tulsidas Sada Harichera। Kije Naath Hridaya Mahn Dera॥",
+"meaning": "Tulsidas is always a devotee of Hari. O Lord, make my heart your abode.",
+"words" : "Harichera, Dera",
+"translation": "devotee, abode"
+}
+]
+]
