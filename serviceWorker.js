@@ -2,10 +2,10 @@ const staticDev = "hanuman_chalisa"
 const service_worker_version = "v1.0851"
 const assets = [
   "/",
-  "/index.html",
-  "/style.css",
-  "/hanuman_chalisa.txt",
-  "/script.js"
+  "index.html",
+  "style.css",
+  "hanuman_chalisa.txt",
+  "script.js"
 ]
 
 self.addEventListener("install", installEvent => {
