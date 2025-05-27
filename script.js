@@ -17,11 +17,11 @@ let hanuman_chalisa,  eng_chalisa, awadhi_chalisa;
 
 async function get_chalisa() {
   
-  let responses = await fetch('/hanuman_chalisa.txt');
+  let responses = await fetch('hanuman_chalisa.txt');
   
   eng_chalisa = await responses.json();
   
-  let aw_responses = await fetch('/awadhi_chalisa.txt');
+  let aw_responses = await fetch('awadhi_chalisa.txt');
   
   awadhi_chalisa = await aw_responses.json();
   
