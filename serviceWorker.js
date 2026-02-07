@@ -1,5 +1,5 @@
 const staticDev = "hanuman_chalisa"
-const service_worker_version = "v1.0851"
+const service_worker_version = "v1.1"
 const assets = [
   "/",
   "index.html",
